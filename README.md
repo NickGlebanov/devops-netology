@@ -1,3 +1,3 @@
 # devops-netology
 
-EDIT
+new string
